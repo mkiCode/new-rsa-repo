@@ -1,0 +1,5 @@
+C:\Users\me\code\dotnet\bignum\bin\Debug\net7.0\publish\bignum.exe
+C:\Users\me\code\dotnet\bignum\bin\Debug\net7.0\publish\bignum.dll
+C:\Users\me\code\dotnet\bignum\bin\Debug\net7.0\publish\bignum.deps.json
+C:\Users\me\code\dotnet\bignum\bin\Debug\net7.0\publish\bignum.runtimeconfig.json
+C:\Users\me\code\dotnet\bignum\bin\Debug\net7.0\publish\bignum.pdb

@@ -1,0 +1,15 @@
+C:\Users\me\code\dotnet\bignum\bin\Debug\net7.0\bignum.exe
+C:\Users\me\code\dotnet\bignum\bin\Debug\net7.0\bignum.deps.json
+C:\Users\me\code\dotnet\bignum\bin\Debug\net7.0\bignum.runtimeconfig.json
+C:\Users\me\code\dotnet\bignum\bin\Debug\net7.0\bignum.dll
+C:\Users\me\code\dotnet\bignum\bin\Debug\net7.0\bignum.pdb
+C:\Users\me\code\dotnet\bignum\obj\Debug\net7.0\bignum.csproj.AssemblyReference.cache
+C:\Users\me\code\dotnet\bignum\obj\Debug\net7.0\bignum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\code\dotnet\bignum\obj\Debug\net7.0\bignum.AssemblyInfoInputs.cache
+C:\Users\me\code\dotnet\bignum\obj\Debug\net7.0\bignum.AssemblyInfo.cs
+C:\Users\me\code\dotnet\bignum\obj\Debug\net7.0\bignum.csproj.CoreCompileInputs.cache
+C:\Users\me\code\dotnet\bignum\obj\Debug\net7.0\bignum.dll
+C:\Users\me\code\dotnet\bignum\obj\Debug\net7.0\refint\bignum.dll
+C:\Users\me\code\dotnet\bignum\obj\Debug\net7.0\bignum.pdb
+C:\Users\me\code\dotnet\bignum\obj\Debug\net7.0\bignum.genruntimeconfig.cache
+C:\Users\me\code\dotnet\bignum\obj\Debug\net7.0\ref\bignum.dll
