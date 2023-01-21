@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NbuYroa7T7BGsmYVWJw3ubsiG4Ge+ODG3aYFXeH9JKiZhOxRNE2cwbNSpYCuJNnN0Fkk9WcXbqM80NGnyfeL4Q==",
+  "dgSpecHash": "7ivdeItjI/YsDVA+xL6Dxb2OP7oqRW347VE5BX+UDrA5OhTS8qxO6WcMjGpOn/CB+C3tPF7lWkrxciqZVlAcUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\me\\code\\dotnet\\bignum\\bignum.csproj",
+  "projectFilePath": "C:\\Users\\me\\code\\my-rsa-new\\bignum\\bignum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,2 @@
+C:\Users\me\code\my-rsa-new\bignum\bin\Release\net7.0\win-x64\publish\bignum.pdb
+C:\Users\me\code\my-rsa-new\bignum\bin\Release\net7.0\win-x64\publish\bignum.exe

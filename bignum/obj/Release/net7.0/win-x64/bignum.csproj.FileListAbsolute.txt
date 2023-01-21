@@ -1,0 +1,15 @@
+C:\Users\me\code\my-rsa-new\bignum\bin\Release\net7.0\win-x64\bignum.exe
+C:\Users\me\code\my-rsa-new\bignum\bin\Release\net7.0\win-x64\bignum.deps.json
+C:\Users\me\code\my-rsa-new\bignum\bin\Release\net7.0\win-x64\bignum.runtimeconfig.json
+C:\Users\me\code\my-rsa-new\bignum\bin\Release\net7.0\win-x64\bignum.dll
+C:\Users\me\code\my-rsa-new\bignum\bin\Release\net7.0\win-x64\bignum.pdb
+C:\Users\me\code\my-rsa-new\bignum\obj\Release\net7.0\win-x64\bignum.csproj.AssemblyReference.cache
+C:\Users\me\code\my-rsa-new\bignum\obj\Release\net7.0\win-x64\bignum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\code\my-rsa-new\bignum\obj\Release\net7.0\win-x64\bignum.AssemblyInfoInputs.cache
+C:\Users\me\code\my-rsa-new\bignum\obj\Release\net7.0\win-x64\bignum.AssemblyInfo.cs
+C:\Users\me\code\my-rsa-new\bignum\obj\Release\net7.0\win-x64\bignum.csproj.CoreCompileInputs.cache
+C:\Users\me\code\my-rsa-new\bignum\obj\Release\net7.0\win-x64\bignum.dll
+C:\Users\me\code\my-rsa-new\bignum\obj\Release\net7.0\win-x64\refint\bignum.dll
+C:\Users\me\code\my-rsa-new\bignum\obj\Release\net7.0\win-x64\bignum.pdb
+C:\Users\me\code\my-rsa-new\bignum\obj\Release\net7.0\win-x64\bignum.genruntimeconfig.cache
+C:\Users\me\code\my-rsa-new\bignum\obj\Release\net7.0\win-x64\ref\bignum.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\me\\code\\dotnet\\bignum\\bignum.csproj": {}
+    "C:\\Users\\me\\code\\my-rsa-new\\bignum\\bignum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\me\\code\\dotnet\\bignum\\bignum.csproj": {
+    "C:\\Users\\me\\code\\my-rsa-new\\bignum\\bignum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\me\\code\\dotnet\\bignum\\bignum.csproj",
+        "projectUniqueName": "C:\\Users\\me\\code\\my-rsa-new\\bignum\\bignum.csproj",
         "projectName": "bignum",
-        "projectPath": "C:\\Users\\me\\code\\dotnet\\bignum\\bignum.csproj",
+        "projectPath": "C:\\Users\\me\\code\\my-rsa-new\\bignum\\bignum.csproj",
         "packagesPath": "C:\\Users\\me\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\me\\code\\dotnet\\bignum\\obj\\",
+        "outputPath": "C:\\Users\\me\\code\\my-rsa-new\\bignum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\me\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -54,6 +54,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }
